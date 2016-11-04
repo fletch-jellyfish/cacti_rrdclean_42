@@ -9,3 +9,13 @@ CMDPHP: Poller[0] ERROR: SQL Cell Failed!, Error:'1146', SQL:"SELECT COUNT(plugi
 
 
 As the error code states, plugin_rrdclean does not exist. No errors are logged into cacti.log when installing or enabling rrdclean.
+
+SVN#2110 available as plugins/rrdclean/branches/v0.42
+
+As per: http://bugs.cacti.net/view.php?id=2330
+
+http://forums.cacti.net/viewtopic.php?f=19&t=41425&p=262240&hilit=plugin_rrdclean.name#p262240
+
+The file has also been included here. 'thewizard' originally found the new file, I've just included this here for future ease of use.
+
+fletch-jellyfish
