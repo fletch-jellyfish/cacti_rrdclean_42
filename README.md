@@ -19,3 +19,6 @@ http://forums.cacti.net/viewtopic.php?f=19&t=41425&p=262240&hilit=plugin_rrdclea
 The file has also been included here. 'thewizard' originally found the new file, I've just included this here for future ease of use.
 
 fletch-jellyfish
+
+# P.s. you will need to run this, on the folder when you move it into the plugins directory:
+# chown -R cacti:cacti rrdclean/ 
