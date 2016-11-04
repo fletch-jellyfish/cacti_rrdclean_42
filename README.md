@@ -20,5 +20,5 @@ The file has also been included here. 'thewizard' originally found the new file,
 
 fletch-jellyfish
 
-# P.s. you will need to run this, on the folder when you move it into the plugins directory:
-# chown -R cacti:cacti rrdclean/ 
+#P.s. you will need to run this, on the folder when you move it into the plugins directory:
+/cacti/plugins# chown -R cacti:cacti rrdclean/ 
